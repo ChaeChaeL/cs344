@@ -1,4 +1,5 @@
 cs344
+https://youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_
 =====
 
 Introduction to Parallel Programming class code
